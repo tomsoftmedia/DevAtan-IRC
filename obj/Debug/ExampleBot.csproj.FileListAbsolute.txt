@@ -1,0 +1,27 @@
+C:\Users\Andy\Code\Irc.root\Irc.v2\ExampleBot\bin\Debug\ExampleBot.exe.config
+C:\Users\Andy\Code\Irc.root\Irc.v2\ExampleBot\bin\Debug\ExampleBot.exe
+C:\Users\Andy\Code\Irc.root\Irc.v2\ExampleBot\bin\Debug\ExampleBot.pdb
+C:\Users\Andy\Code\Irc.root\Irc.v2\ExampleBot\bin\Debug\MetaBuilders.Irc.dll
+C:\Users\Andy\Code\Irc.root\Irc.v2\ExampleBot\bin\Debug\MetaBuilders.Irc.pdb
+C:\Users\Andy\Code\Irc.root\Irc.v2\ExampleBot\bin\Debug\MetaBuilders.Irc.xml
+C:\Users\Andy\Code\Irc.root\Irc.v2\ExampleBot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andy\Code\Irc.root\Irc.v2\ExampleBot\obj\Debug\ExampleBot.Form1.resources
+C:\Users\Andy\Code\Irc.root\Irc.v2\ExampleBot\obj\Debug\ExampleBot.Properties.Resources.resources
+C:\Users\Andy\Code\Irc.root\Irc.v2\ExampleBot\obj\Debug\ExampleBot.csproj.GenerateResource.Cache
+C:\Users\Andy\Code\Irc.root\Irc.v2\ExampleBot\obj\Debug\ExampleBot.exe
+C:\Users\Andy\Code\Irc.root\Irc.v2\ExampleBot\obj\Debug\ExampleBot.pdb
+C:\Users\lam.000\Downloads\MetaBuilders Nebo Irc 2.1\Source\ExampleBot\bin\Debug\ExampleBot.exe.config
+C:\Users\lam.000\Downloads\MetaBuilders Nebo Irc 2.1\Source\ExampleBot\obj\Debug\ExampleBot.exe
+C:\Users\lam.000\Downloads\MetaBuilders Nebo Irc 2.1\Source\ExampleBot\obj\Debug\ExampleBot.pdb
+C:\Users\lam.000\Downloads\MetaBuilders Nebo Irc 2.1\Source\ExampleBot\bin\Debug\ExampleBot.exe
+C:\Users\lam.000\Downloads\MetaBuilders Nebo Irc 2.1\Source\ExampleBot\bin\Debug\ExampleBot.pdb
+C:\Users\lam.000\Downloads\MetaBuilders Nebo Irc 2.1\Source\ExampleBot\bin\Debug\MetaBuilders.Irc.dll
+C:\Users\lam.000\Downloads\MetaBuilders Nebo Irc 2.1\Source\ExampleBot\bin\Debug\MetaBuilders.Irc.pdb
+C:\Users\lam.000\Downloads\MetaBuilders Nebo Irc 2.1\Source\ExampleBot\bin\Debug\MetaBuilders.Irc.xml
+C:\Users\lam.000\Downloads\MetaBuilders Nebo Irc 2.1\Source\ExampleBot\obj\Debug\ExampleBot.csprojResolveAssemblyReference.cache
+C:\Users\lam.000\Downloads\MetaBuilders Nebo Irc 2.1\Source\ExampleBot\obj\Debug\ExampleBot.csproj.GenerateResource.Cache
+C:\Users\lam.000\Downloads\MetaBuilders Nebo Irc 2.1\Source\ExampleBot\obj\Debug\DevAtanIRC.AboutBox.resources
+C:\Users\lam.000\Downloads\MetaBuilders Nebo Irc 2.1\Source\ExampleBot\obj\Debug\DevAtanIRC.Login.resources
+C:\Users\lam.000\Downloads\MetaBuilders Nebo Irc 2.1\Source\ExampleBot\obj\Debug\DevAtanIRC.Properties.Resources.resources
+C:\Users\lam.000\Downloads\MetaBuilders Nebo Irc 2.1\Source\ExampleBot\obj\Debug\DevAtanIRC.Register.resources
+C:\Users\lam.000\Downloads\MetaBuilders Nebo Irc 2.1\Source\ExampleBot\obj\Debug\DevAtanIRC.Form1.resources
