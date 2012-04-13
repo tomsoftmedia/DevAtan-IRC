@@ -270,11 +270,11 @@ namespace DevAtanIRC
 			try
 			{
 				General.client.Connection.Connect( this );
-                textBox1.Text += "Connecting to Freenode..." + Environment.NewLine;
+                textBox1.Text += "Connecting to DevAtan Channel. Powered by Freenode..." + Environment.NewLine;
 			}
 			catch ( Exception ex )
 			{
-				MessageBox.Show( ex.Message );
+				MessageBox.Show( ex.Message + "HS/G?E/124555GS+(sgDevAtanChannel.ViaFreenode.ToIPString)");
 			}
 
 		}
@@ -298,7 +298,7 @@ namespace DevAtanIRC
                 }
                 else if (e.Data.StartsWith("ERROR"))
                 {
-                    //Ignore
+                    break;
                 }
                 else if (e.Data.Contains("ACTION"))
                 {
@@ -403,7 +403,7 @@ namespace DevAtanIRC
 		{
 			General.client.SendJoin("#devatan");
             textBox1.Text += "Connecting to channel..." + Environment.NewLine;
-            General.client.DefaultQuitMessage = "DevAtan IRC - faster, easier, better";
+            General.client.DefaultQuitMessage = "DevAtan IRC - DevAtan Official Chat Application";
         }
 
 
@@ -413,7 +413,7 @@ namespace DevAtanIRC
 		{
 			if ( General.client != null )
 			{
-				General.client.SendQuit("DevAtan IRC - The best IRC client for DevAtan");
+				General.client.SendQuit("DevAtan IRC - Client Quit");
 			}
 		}
         /*List<IPlugin> _plugins;
@@ -465,11 +465,11 @@ namespace DevAtanIRC
             }
             else if (this.ChatEntry.Text.StartsWith("/me"))
             {
-                General.client.SendChat("ACTION " + this.ChatEntry.Text.Substring(4), "#devatan");
+                General.client.SendChat("ACTION " + this.ChatEntry.Text.Substring(4), "##devatan");
             }
             else
             {
-	    		General.client.SendChat( this.ChatEntry.Text, "#devatan" );
+	    		General.client.SendChat( this.ChatEntry.Text, "##devatan" );
 		    	this.ChatEntry.Text = "";
             }
 		}
